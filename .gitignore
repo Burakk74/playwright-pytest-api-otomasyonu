@@ -3,3 +3,4 @@ venv/
 __pycache__/
 report.html
 assets/
+requireements.txt
